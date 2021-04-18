@@ -1,6 +1,8 @@
 # shaders-with-sodium
-This is a small repository designed to help users who want shaders with Sodium but without using Iris or vanilla Fabulous shaders .
-If you don't know already, Sodium does NOT work with Optifine shaders. This can be overcome using [Iris](https://github.com/IrisShaders/Iris) but it requires a decent amount of technical know how.
+This is a small repository designed to help users who want "shaders" with Sodium but without using Iris or vanilla Fabulous shaders .
+If you don't know already, Sodium does NOT work with Optifine shaders. This can be overcome using [Iris](https://github.com/IrisShaders/Iris) but it requires a decent amount of technical know how. My solution simply lets you use special resourcepacks that change lighting, water, and skies. It is not performance intensive.
+
+Screenshots are further down.
 
 **NOTE: Both [MCPP](https://github.com/LambdAurora/MCPatcherPatcher) and [Colormatic](https://github.com/kvverti/colormatic) are under the [LGPL License](https://github.com/LambdAurora/MCPatcherPatcher/blob/main/LICENSE) and [FabricSkyBoxes](https://github.com/AMereBagatelle/fabricskyboxes) is under the [MIT License](https://github.com/AMereBagatelle/fabricskyboxes/blob/1.16.x-master/LICENSE). All three binaries which I have provided are unmodified from the original source code.**
 
@@ -13,6 +15,8 @@ If you want me to change something or you find an error, just make an issue and 
 Also this guide assumes you have Sodium installed already. Additionally, if you want that sweet, sweet, connected glass, I'd *highly* recommend this [Gist](https://gist.github.com/DragonEggBedrockBreaking/c1ddf9c2543ad0d56b8e49f80c283b99)
 
 Also I wanna mention that there's a program called MCPPPP that's basically MCPP but it's an exe, and is harder to use. I'd recommend using it if and only if you know how to use the command line, and cd into folders and things like that. I'll be adding the more complicated guide bit at a later date. 
+
+Screenshots of what this actually looks like:
 
 Steps:
 1) Download the latest release from the releases page.
