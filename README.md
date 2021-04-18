@@ -1,5 +1,5 @@
 # shaders-with-sodium
-This is a relatively simple guide designed to help users who want shaders with Sodium but without using Iris or vanilla Fabulous shaders . If you don't know already, Sodium does NOT work with Optifine shaders. This can be overcome using [Iris](https://github.com/IrisShaders/Iris) but it requires a decent amount of technical knowledge, and Fabulous (vanilla) shaders can be very heavy on system resources.
+This is a relatively simple guide designed to help users who want shaders with Sodium but dont want to use Iris or Fabulous (vanilla) shaders. If you didn't know already, Sodium does NOT work with Optifine shaders. This can be overcome using [Iris](https://github.com/IrisShaders/Iris) but it requires a decent amount of technical knowledge, and Fabulous (vanilla) shaders can be very heavy on system resources.
 
 **NOTE: Both [MCPP](https://github.com/LambdAurora/MCPatcherPatcher) and [Colormatic](https://github.com/kvverti/colormatic) are under the [LGPL License](https://github.com/LambdAurora/MCPatcherPatcher/blob/main/LICENSE) and [FabricSkyBoxes](https://github.com/AMereBagatelle/fabricskyboxes) is under the [MIT License](https://github.com/AMereBagatelle/fabricskyboxes/blob/1.16.x-master/LICENSE). All three binaries which I have provided are unmodified from the original source code.**
 
@@ -24,7 +24,7 @@ Also I wanna mention that there's a program called MCPPPP that's basically MCPP 
 4) Go to your `minecraft/resourcepacks/` and drop the resourcepack into the folder. 
 5) That's it! You're done
 6) Now launch your game
-7) Load the resourcepack that I included (it should go over all the other ones no matter what. Some exceptions apply, just make an issue and ask me.
+7) Load the resourcepack that I included (it should go over all the other ones no matter what. Some exceptions apply, just create an issue report and ask me.
 
 ---
 
