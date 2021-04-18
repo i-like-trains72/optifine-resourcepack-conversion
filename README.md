@@ -10,8 +10,13 @@ Alright, onto the actual thing. NOTE: This guide assumes you know how to install
 
 If you want me to change something or you find an error, just make an issue and if you want to do something *big*, make a pull request please.
 
+Also this guide assumes you have Sodium installed already. Additionally, if you want that sweet, sweet, connected glass, I'd *highly* recommend this [Gist](
+
 Steps:
 1) Download the latest release from the releases page.
 2) Extract the .zip into a separate folder. Do NOT extract the resourcepack after extracting the release, it is a .zip by default and will not work if you extract it.
-3) Go to your `minecraft/mods/` folder and paste the mods from the extracted .zip into that folder. 
-4) Go to your `minecraft/resourcepacks
+3) Go to your `minecraft/mods` folder and paste the mods from the extracted .zip into that folder. 
+4) Go to your `minecraft/resourcepacks` and drop the resourcepack into the folder. 
+5) That's it! You're done
+6) Now launch your game
+7) Load the resourcepack that I included (it should go over all the other ones no matter what. Some exceptions apply, just make an issue and ask me)
