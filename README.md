@@ -10,7 +10,7 @@ Alright, onto the actual thing. NOTE: This guide assumes you know how to install
 
 If you want me to change something or you find an error, just make an issue and if you want to do something *big*, make a pull request please.
 
-Also this guide assumes you have Sodium installed already. Additionally, if you want that sweet, sweet, connected glass, I'd *highly* recommend this [Gist](
+Also this guide assumes you have Sodium installed already. Additionally, if you want that sweet, sweet, connected glass, I'd *highly* recommend this [Gist](https://gist.github.com/DragonEggBedrockBreaking/c1ddf9c2543ad0d56b8e49f80c283b99)
 
 Steps:
 1) Download the latest release from the releases page.
