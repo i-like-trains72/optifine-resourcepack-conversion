@@ -17,8 +17,8 @@ Also I wanna mention that there's a program called MCPPPP that's basically MCPP 
 Steps:
 1) Download the latest release from the releases page.
 2) Extract the .zip into a separate folder. Do NOT extract the resourcepack after extracting the release, it is a .zip by default and will not work if you extract it.
-3) Go to your `minecraft/mods` folder and paste the mods from the extracted .zip into that folder. 
-4) Go to your `minecraft/resourcepacks` and drop the resourcepack into the folder. 
+3) Go to your `minecraft/mods/` folder and paste the mods from the extracted .zip into that folder. 
+4) Go to your `minecraft/resourcepacks/` and drop the resourcepack into the folder. 
 5) That's it! You're done
 6) Now launch your game
 7) Load the resourcepack that I included (it should go over all the other ones no matter what. Some exceptions apply, just make an issue and ask me. Whatever resourcepack you download from DragonEggBedrockBreaking's gist, place it *below* the resourcepack I included)
