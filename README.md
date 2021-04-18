@@ -12,6 +12,8 @@ If you want me to change something or you find an error, just make an issue and 
 
 Also this guide assumes you have Sodium installed already. Additionally, if you want that sweet, sweet, connected glass, I'd *highly* recommend this [Gist](https://gist.github.com/DragonEggBedrockBreaking/c1ddf9c2543ad0d56b8e49f80c283b99)
 
+Also I wanna mention that there's a program called MCPPPP that's basically MCPP but it's an exe, and is harder to use. I'd recommend using it if and only if you know how to use the command line, and cd into folders and things like that. I'll be adding the more complicated guide bit at a later date. 
+
 Steps:
 1) Download the latest release from the releases page.
 2) Extract the .zip into a separate folder. Do NOT extract the resourcepack after extracting the release, it is a .zip by default and will not work if you extract it.
