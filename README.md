@@ -17,6 +17,23 @@ Also this guide assumes you have Sodium installed already. Additionally, if you 
 Also I wanna mention that there's a program called MCPPPP that's basically MCPP but it's an exe, and is harder to use. I'd recommend using it if and only if you know how to use the command line, and cd into folders and things like that. I'll be adding the more complicated guide bit at a later date. 
 
 Screenshots of what this actually looks like:
+![huge_2021-04-18_17 37 48](https://user-images.githubusercontent.com/82773235/115161892-260a7b80-a06e-11eb-9249-0783c52ee721.png)
+![huge_2021-04-18_17 43 11](https://user-images.githubusercontent.com/82773235/115161893-260a7b80-a06e-11eb-857f-bb46c40b7aef.png)
+![huge_2021-04-18_17 43 30](https://user-images.githubusercontent.com/82773235/115161894-26a31200-a06e-11eb-8a59-2e037c6a6951.png)
+![2021-04-18_17 33 51](https://user-images.githubusercontent.com/82773235/115161895-26a31200-a06e-11eb-85b2-5746064edd80.png)
+![huge_2021-04-18_17 33 55](https://user-images.githubusercontent.com/82773235/115161896-26a31200-a06e-11eb-96c7-bd22ec230f29.png)
+![huge_2021-04-18_17 37 20](https://user-images.githubusercontent.com/82773235/115161897-273ba880-a06e-11eb-852d-f71edab8b4b8.png)
+
+Those screenshots are with the resourcepack I included.
+Here are some screenshots with the resourcepack I included and a second one:
+![huge_2021-04-18_17 48 28](https://user-images.githubusercontent.com/82773235/115162025-0162d380-a06f-11eb-8671-1c00154b807a.png)
+
+Fun note: The mountains are *blue*, I have no clue why. If I had to guess, it's due to MCPP having some bugs with conversion but I still think it looks quite good. 
+![huge_2021-04-18_17 54 10](https://user-images.githubusercontent.com/82773235/115162065-3f5ff780-a06f-11eb-8622-7e74c93585ef.png)
+
+This next screenshot is using the more technical way that should make things look slightly better
+
+
 
 Steps:
 1) Download the latest release from the releases page.
