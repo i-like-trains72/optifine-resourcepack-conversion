@@ -19,4 +19,7 @@ Steps:
 4) Go to your `minecraft/resourcepacks` and drop the resourcepack into the folder. 
 5) That's it! You're done
 6) Now launch your game
-7) Load the resourcepack that I included (it should go over all the other ones no matter what. Some exceptions apply, just make an issue and ask me)
+7) Load the resourcepack that I included (it should go over all the other ones no matter what. Some exceptions apply, just make an issue and ask me. Whatever resourcepack you download from DragonEggBedrockBreaking's gist, place it *below* the resourcepack I included)
+
+And you're done! Go get yourself a choccy milk and congratulate yourself. 
+If you liked this, pls star it.
