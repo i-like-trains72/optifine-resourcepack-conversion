@@ -33,6 +33,7 @@ Fun note: The mountains are *blue*, I have no clue why. If I had to guess, it's 
 ![huge_2021-04-18_17 54 10](https://user-images.githubusercontent.com/82773235/115162065-3f5ff780-a06f-11eb-8622-7e74c93585ef.png)
 
 This next screenshot is using the more technical way that should make things look slightly better
+(I haven't gotten around to taking it yet)
 
 
 
@@ -50,3 +51,11 @@ This next screenshot is using the more technical way that should make things loo
 ---
 
 And you're done! Go get yourself a choccy milk and congratulate yourself. 
+
+Well...if you're reading this you want the technical version, right? To do this, you need to be reasonably tech savvy; but you need these skills: if you know how to find the path to a folder, and don't mind the lack of a graphical interface to use the program.
+1) Close your MC if it's running. You don't need to unload or reload the resourcepacks.
+2) Grab MCPPPP from [here](https://github.com/supsm/MCPPPP) and follow the instructions on it.
+3) Once you've finished converting the resourcepack(s), load up your game
+4) Load the resourcepack if you unloaded it.
+
+That's it! You're done!
