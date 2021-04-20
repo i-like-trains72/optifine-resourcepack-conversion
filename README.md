@@ -69,4 +69,4 @@ Well...if you're reading this you want the technical version, right? To do this,
 4) Load the resourcepack if you unloaded it.
 5) Now you can go to step 12 of the easy guide and do that to configure your game more
 
-That's it! You're done and now you have some yellowy torch light and soft blue lighting outside. 
+That's it! You're done!
