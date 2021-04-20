@@ -43,10 +43,14 @@ This next screenshot is using the more technical way that should make things loo
 1) Download the latest release from the releases page.
 2) Extract the .zip into a separate folder. Do NOT extract the resourcepack after extracting the release, it is a .zip by default and will not work if you extract it.
 3) Go to your `minecraft/mods/` folder and paste the mods from the extracted .zip into that folder.
-4) Go to your `minecraft/resourcepacks/` and drop the resourcepack into the folder. 
-5) That's it! You're done
-6) Now launch your game
-7) Load the resourcepack that I included (it should go over all the other ones no matter what. Some exceptions apply, just create an issue report and ask me.
+4) Now is a good time to install [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) if you haven't already. You'll need it to configure one of the mods.
+5) Go to your `minecraft/resourcepacks/` and drop the resourcepack into the folder. 
+6) Hit ESC on your keyboard and go to Mods. Search for Colormatic. In the top right, there'll be a small icon that looks like this ![image](https://user-images.githubusercontent.com/82773235/115439311-70aa0600-a1dc-11eb-85ed-2a3a3e092cfc.png)
+
+
+7) That's it! You're done
+8) Now launch your game
+9) Load the resourcepack that I included (it should go over all the other ones no matter what. Some exceptions apply, just create an issue report and ask me)
 
 ---
 
@@ -55,6 +59,7 @@ And you're done! Go get yourself a choccy milk and congratulate yourself.
 Well...if you're reading this you want the technical version, right? To do this, you need to be reasonably tech savvy; but you need these skills: if you know how to find the path to a folder, and don't mind the lack of a graphical interface to use the program.
 1) Close your MC if it's running. You don't need to unload or reload the resourcepacks.
 2) Grab MCPPPP from [here](https://github.com/supsm/MCPPPP) and follow the instructions on it.
+**NOTE: Leave MCPP in the mods folder.** Due to some issues with MCPPPP, certain conversions are a little funky and MCPP will still do the bits that MCPPPP can't do. If you do not notice a difference right now, that's okay. You will see a difference once MCPPPP is more fleshed out
 3) Once you've finished converting the resourcepack(s), load up your game
 4) Load the resourcepack if you unloaded it.
 
