@@ -43,14 +43,19 @@ This next screenshot is using the more technical way that should make things loo
 1) Download the latest release from the releases page.
 2) Extract the .zip into a separate folder. Do NOT extract the resourcepack after extracting the release, it is a .zip by default and will not work if you extract it.
 3) Go to your `minecraft/mods/` folder and paste the mods from the extracted .zip into that folder.
-4) Now is a good time to install [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) if you haven't already. You'll need it to configure one of the mods.
-5) Go to your `minecraft/resourcepacks/` and drop the resourcepack into the folder. 
-6) Hit ESC on your keyboard and go to Mods. Search for Colormatic. In the top right, there'll be a small icon that looks like this ![image](https://user-images.githubusercontent.com/82773235/115439311-70aa0600-a1dc-11eb-85ed-2a3a3e092cfc.png)
-
-
-7) That's it! You're done
-8) Now launch your game
-9) Load the resourcepack that I included (it should go over all the other ones no matter what. Some exceptions apply, just create an issue report and ask me)
+4) Now is a good time to install [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) if you haven't already. You'll    
+5) That's it! You're done with the hard part
+6) Now launch your game
+7) Load the resourcepack that I included (it should go over all the other ones no matter what. Some exceptions apply, just create an issue report and ask me)
+8) need it to configure one of the mods.
+9) Go to your `minecraft/resourcepacks/` and drop the resourcepack into the folder. 
+10) Load the resourcepack and enjoy!
+This next bit is OPTIONAL. I highly recommend turning on Clear Skies and enabling block flickering if you want it to look better. 
+12) Hit ESC on your keyboard and go to Mods. Search for Colormatic. In the top right, there'll be a small icon that looks like this ![image](https://user-images.githubusercontent.com/82773235/115439311-70aa0600-a1dc-11eb-85ed-2a3a3e092cfc.png)
+13) Now click on it and go to the 'Fog & Sky' button.
+14) Click Clear Skies if you want to remove the horizontal banding at the sky's horizon. 
+15) If you don't want block flickering (light from torches/lanterns/etc. will flicker), go to 'Lighting' and disable it.
+16) You can experiment more, and once you're done changing it to your hearts' content, click Save & Quit and go back to the game
 
 ---
 
@@ -62,5 +67,6 @@ Well...if you're reading this you want the technical version, right? To do this,
 **NOTE: Leave MCPP in the mods folder.** Due to some issues with MCPPPP, certain conversions are a little funky and MCPP will still do the bits that MCPPPP can't do. If you do not notice a difference right now, that's okay. You will see a difference once MCPPPP is more fleshed out
 3) Once you've finished converting the resourcepack(s), load up your game
 4) Load the resourcepack if you unloaded it.
+5) Now you can go to step 12 of the easy guide and do that to configure your game more
 
-That's it! You're done!
+That's it! You're done and now you have some yellowy torch light and soft blue lighting outside. 
