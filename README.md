@@ -1,9 +1,12 @@
 # Making Optifine resourcepacks that add lighting/water/skies work with Sodium
 This is a relatively simple guide designed to help users who want "shaders" with Sodium but don't want to use Iris or Fabulous (vanilla) shaders. If you didn't know already, Sodium does NOT work with Optifine shaders. This can be overcome using [Iris](https://github.com/IrisShaders/Iris) but it requires a decent amount of technical knowledge, and Fabulous (vanilla) shaders can be very heavy on system resources. Screenshots are further down.
 
+
 **NOTE: Both [MCPP](https://github.com/LambdAurora/MCPatcherPatcher) and [Colormatic](https://github.com/kvverti/colormatic) are under the [LGPL License](https://github.com/LambdAurora/MCPatcherPatcher/blob/main/LICENSE) and [FabricSkyBoxes](https://github.com/AMereBagatelle/fabricskyboxes) is under the [MIT License](https://github.com/AMereBagatelle/fabricskyboxes/blob/1.16.x-master/LICENSE). All three binaries which I have provided are unmodified from the original source code.**
 
 This repository is under the [LGPL license](LICENSE.txt). Before asking for support, please be aware of its terms.
+
+![image](https://user-images.githubusercontent.com/82773235/115881185-80faf480-a419-11eb-9cd9-af5bd59f1082.png)
 
 ---
 
@@ -36,6 +39,8 @@ This next screenshot is using the more technical way that should make things loo
 (I haven't gotten around to taking it yet)
 
 
+![image](https://user-images.githubusercontent.com/82773235/115881298-9b34d280-a419-11eb-9ff9-303e201bb3c9.png)
+
 
 ---
 
@@ -43,11 +48,11 @@ This next screenshot is using the more technical way that should make things loo
 1) Download the latest release from the releases page.
 2) Extract the .zip into a separate folder. Do NOT extract the resourcepack after extracting the release, it is a .zip by default and will not work if you extract it.
 3) Go to your `minecraft/mods/` folder and paste the mods from the extracted .zip into that folder.
-4) Now is a good time to install [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) if you haven't already. You'll    
+4) Now is a good time to install [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) if you haven't already. You'll need it to configure one of the mods. 
 5) That's it! You're done with the hard part
 6) Now launch your game
 7) Load the resourcepack that I included (it should go over all the other ones no matter what. Some exceptions apply, just create an issue report and ask me)
-8) need it to configure one of the mods.
+8) This bit can vary depending on your launcher. With GDL, it makes a symlink when the game is running and I truthfully don't know why. To get around this, go to your mods folder, and go one folder back (should work for any launcher). It should have all the folders, like resourcepacks, mods, saves, etc. The other way is to go to GDL, right click on the running instance, click Manage and go to resourcepacks. There's a little folder icon. Click it and it will bring up the folder with resourcepacks. 
 9) Go to your `minecraft/resourcepacks/` and drop the resourcepack into the folder. 
 10) Load the resourcepack and enjoy!
 This next bit is OPTIONAL. I highly recommend turning on Clear Skies and enabling block flickering if you want it to look better. 
@@ -64,9 +69,11 @@ And you're done! Go get yourself a choccy milk and congratulate yourself.
 Well...if you're reading this you want the technical version, right? To do this, you need to be reasonably tech savvy; but you need these skills: if you know how to find the path to a folder, and don't mind the lack of a graphical interface to use the program.
 1) Close your MC if it's running. You don't need to unload or reload the resourcepacks.
 2) Grab MCPPPP from [here](https://github.com/supsm/MCPPPP) and follow the instructions on it.
-**NOTE: Leave MCPP in the mods folder.** Due to some issues with MCPPPP, certain conversions are a little funky and MCPP will still do the bits that MCPPPP can't do. If you do not notice a difference right now, that's okay. You will see a difference once MCPPPP is more fleshed out
+**NOTE: Leave MCPP in the mods folder.** Due to some issues with MCPPPP, certain conversions are a little funky and MCPP will still do the bits that MCPPPP can't do. If you do not notice a difference right now, that's okay. You will see a difference once MCPPPP is more fleshed out. 
 3) Once you've finished converting the resourcepack(s), load up your game
 4) Load the resourcepack if you unloaded it.
 5) Now you can go to step 12 of the easy guide and do that to configure your game more
 
 That's it! You're done!
+
+# Making Optifine resourcepacks that add custom entity models/custom item textures/varied mob textures
