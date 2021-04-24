@@ -77,3 +77,4 @@ Well...if you're reading this you want the technical version, right? To do this,
 That's it! You're done!
 
 # Making Optifine resourcepacks that add custom entity models/custom item textures/varied mob textures
+this section is currently under construction
