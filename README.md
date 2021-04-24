@@ -35,8 +35,7 @@ Here are some screenshots with the resourcepack I included and a second one:
 Fun note: The mountains are *blue*, I have no clue why. If I had to guess, it's due to MCPP having some bugs with conversion but I still think it looks quite good. 
 ![huge_2021-04-18_17 54 10](https://user-images.githubusercontent.com/82773235/115162065-3f5ff780-a06f-11eb-8622-7e74c93585ef.png)
 
-[//]: # (This next screenshot is using the more technical way that should make things look slightly better
-(I haven't gotten around to taking it yet))
+[//]: # (This next screenshot is using the more technical way that should make things look slightly better; I haven't gotten around to taking it yet)
 
 
 ![image](https://user-images.githubusercontent.com/82773235/115881298-9b34d280-a419-11eb-9ff9-303e201bb3c9.png)
