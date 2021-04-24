@@ -10,7 +10,7 @@ This repository is under the [LGPL license](LICENSE.txt). Before asking for supp
 
 ---
 
-This guide assumes you know how to install mods on the **Fabric** modloader and how to load resourcepacks. I'll be including more complicated instructions that make this work slightly (for now) better, which will be geared towards people who have a higher level of technical understanding.  
+This guide assumes you know how to install mods on the **Fabric** modloader and how to load resourcepacks.
 
 If you would like me to change something or you find an error, just make an issue and if you want to do something *big*, make a pull request please.
 
@@ -44,7 +44,7 @@ Fun note: The mountains are *blue*, I have no clue why. If I had to guess, it's 
 ---
 
 ### Steps:
-Note: If you have no idea how to do this, follow the steps below. If you have went into the instance folder, and this is all really simple, just extract to the root instance's folder and skip to step 10 *after* launching the game.
+Note: If you have no idea how to do this, follow the steps below. If you have went into the instance folder in the past and know what you're doing, and this is all really simple for you, just extract to the root instance's folder and skip to step 10 *after* launching the game.
 
 1) Download the latest release from the releases page.
 2) Extract the .zip into a separate folder. Do NOT extract the resourcepack after extracting the release, it is a .zip by default and will not work if you extract it.
