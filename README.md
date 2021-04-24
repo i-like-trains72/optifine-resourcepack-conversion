@@ -44,6 +44,8 @@ Fun note: The mountains are *blue*, I have no clue why. If I had to guess, it's 
 ---
 
 ### Steps:
+Note: If you have no idea how to do this, follow the steps below. If you have went into the instance folder, and this is all really simple, just extract to the root instance's folder and skip to step 10 *after* launching the game.
+
 1) Download the latest release from the releases page.
 2) Extract the .zip into a separate folder. Do NOT extract the resourcepack after extracting the release, it is a .zip by default and will not work if you extract it.
 3) Go to your `minecraft/mods/` folder and paste the mods from the extracted .zip into that folder.
@@ -54,7 +56,7 @@ Fun note: The mountains are *blue*, I have no clue why. If I had to guess, it's 
 8) This bit can vary depending on your launcher. With GDL, it makes a symlink when the game is running and I truthfully don't know why. To get around this, go to your mods folder, and go one folder back (should work for any launcher). It should have all the folders, like resourcepacks, mods, saves, etc. The other way is to go to GDL, right click on the running instance, click Manage and go to resourcepacks. There's a little folder icon. Click it and it will bring up the folder with resourcepacks. 
 9) Go to your `minecraft/resourcepacks/` and drop the resourcepack into the folder. 
 10) Load the resourcepack and enjoy!
-This next bit is OPTIONAL. I highly recommend turning on Clear Skies and enabling block flickering if you want it to look better. 
+11) This next bit is OPTIONAL. I highly recommend turning on Clear Skies and enabling block flickering if you want it to look better. 
 12) Hit ESC on your keyboard and go to Mods. Search for Colormatic. In the top right, there'll be a small icon that looks like this ![image](https://user-images.githubusercontent.com/82773235/115439311-70aa0600-a1dc-11eb-85ed-2a3a3e092cfc.png)
 13) Now click on it and go to the 'Fog & Sky' button.
 14) Click Clear Skies if you want to remove the horizontal banding at the sky's horizon. 
