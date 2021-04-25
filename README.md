@@ -43,25 +43,26 @@ Fun note: The mountains are *blue*, I have no clue why. If I had to guess, it's 
 
 ---
 
+
+BIG CHANGES ARE COMING: Soon, I will be removing my release from Github and I will refer you to Curseforge. This is because I feel it's unethical to provide direct .jars and I want to help boost the mod authors' downloads on CF. The steps will apply like normal, but you will download the .zip from CF, and import from .zip in GDL or MultiMC or whatever launcher you use. Then just copy and paste the mods into any of the installations of Minecraft that you have and do the same for the resourcepacks.
+
+
 ### Steps:
 Note: If you have no idea how to do this, follow the steps below. If you have went into the instance folder in the past and know what you're doing, and this is all really simple for you, just extract to the root instance's folder and skip to step 10 *after* launching the game.
 
-1) Download the latest release from the releases page.
-2) Extract the .zip into a separate folder. Do NOT extract the resourcepack after extracting the release, it is a .zip by default and will not work if you extract it.
-3) Go to your `minecraft/mods/` folder and paste the mods from the extracted .zip into that folder.
-4) Now is a good time to install [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) if you haven't already. You'll need it to configure one of the mods. 
-5) That's it! You're done with the hard part
-6) Now launch your game
-7) Load the resourcepack that I included (it should go over all the other ones no matter what. Some exceptions apply, just create an issue report and ask me)
-8) This bit can vary depending on your launcher. With GDL, it makes a symlink when the game is running and I truthfully don't know why. To get around this, go to your mods folder, and go one folder back (should work for any launcher). It should have all the folders, like resourcepacks, mods, saves, etc. The other way is to go to GDL, right click on the running instance, click Manage and go to resourcepacks. There's a little folder icon. Click it and it will bring up the folder with resourcepacks. 
-9) Go to your `minecraft/resourcepacks/` and drop the resourcepack into the folder. 
-10) Load the resourcepack and enjoy!
-11) This next bit is OPTIONAL. I highly recommend turning on Clear Skies and enabling block flickering if you want it to look better. 
-12) Hit ESC on your keyboard and go to Mods. Search for Colormatic. In the top right, there'll be a small icon that looks like this ![image](https://user-images.githubusercontent.com/82773235/115439311-70aa0600-a1dc-11eb-85ed-2a3a3e092cfc.png)
-13) Now click on it and go to the 'Fog & Sky' button.
-14) Click Clear Skies if you want to remove the horizontal banding at the sky's horizon. 
-15) If you don't want block flickering (light from torches/lanterns/etc. will flicker), go to 'Lighting' and disable it.
-16) You can experiment more, and once you're done changing it to your hearts' content, click Save & Quit and go back to the game
+
+1) yeah so uh this is now a Curseforge guide i suppose. 
+2) Download MCPP from my github
+3) Download the .zip from Curseforge or use your launcher's built in modpack browsing if it has that. 
+4) Install the modpack using the Import from .zip option
+5) Copy and paste the mods/resourcepacks into your other MC installations 
+6) Launch the game and profit
+7) This next bit is OPTIONAL. I highly recommend turning on Clear Skies and enabling block flickering if you want it to look better. 
+8) Hit ESC on your keyboard and go to Mods. Search for Colormatic. In the top right, there'll be a small icon that looks like this ![image](https://user-images.githubusercontent.com/82773235/115439311-70aa0600-a1dc-11eb-85ed-2a3a3e092cfc.png)
+9) Now click on it and go to the 'Fog & Sky' button.
+10) Click Clear Skies if you want to remove the horizontal banding at the sky's horizon. 
+11) If you don't want block flickering (light from torches/lanterns/etc. will flicker), go to 'Lighting' and disable it.
+12) You can experiment more, and once you're done changing it to your hearts' content, click Save & Quit and go back to the game
 
 ---
 
