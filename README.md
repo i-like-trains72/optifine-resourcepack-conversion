@@ -10,7 +10,7 @@ This repository is under the [LGPL license](LICENSE.txt). Before asking for supp
 
 ---
 
-This guide assumes you know how to install mods on the **Fabric** modloader and how to load resourcepacks.
+This guide assumes you know how to install mods on the **Fabric** modloader, how to install Curseforge modpacks, copy and paste mods/resourcepacks from instance to instance and how to load resourcepacks.
 
 If you would like me to change something or you find an error, just make an issue and if you want to do something *big*, make a pull request please.
 
@@ -51,7 +51,7 @@ BIG CHANGES ARE COMING: Soon, I will be removing my release from Github and I wi
 Note: If you have no idea how to do this, follow the steps below. If you have went into the instance folder in the past and know what you're doing, and this is all really simple for you, just extract to the root instance's folder and skip to step 10 *after* launching the game.
 
 
-1) yeah so uh this is now a Curseforge guide i suppose. 
+1) This is a Curseforge guide for now, I have removed the instructions that were for using my own release. 
 2) Download MCPP from my github
 3) Download the .zip from Curseforge or use your launcher's built in modpack browsing if it has that. 
 4) Install the modpack using the Import from .zip option
