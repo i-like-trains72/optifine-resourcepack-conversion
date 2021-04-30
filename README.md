@@ -103,5 +103,4 @@ Well...if you're reading this you want the technical version, right? To do this,
 That's it! You're done!
 
 # Making Optifine resourcepacks that add custom entity models/custom item textures/varied mob textures
-this section is currently under construction
-however MCPPPP works with VMT for now. Unfortunately, the dev of VMT is taking a break, and hence MCPPPP cannot work on VMT conversion.
+this section is currently under construction. however MCPPPP works with VMT for now. Unfortunately, the dev of VMT is taking a break, and hence MCPPPP cannot work on VMT conversion. gonna add VMT later.
