@@ -48,26 +48,47 @@ BIG CHANGES ARE COMING: Soon, I will be removing my release from Github and I wi
 
 ## Do NOT go to the discord servers for MCPP, Colormatic, Sodium, or FabricSkyBoxes!! Make an issue report here first. If we can narrow it down to a specific mod, *I* will take care of reporting bugs. Don't ask for support in those servers. I will eventually make a discord server for this project, you can also talk to me there.
 
-### Steps:
-Note: If you have no idea how to do this, follow the steps below. If you have went into the instance folder in the past and know what you're doing, and this is all really simple for you, just extract to the root instance's folder and skip to step 10 *after* launching the game.
+### Steps for Curseforge Release:
+Note: If you have no idea how to do this, follow the steps below. Or, just extract the release into your .minecraft folder, that should also work and skip to step 6.
 
 
-1) This is a Curseforge guide for now, I have removed the instructions that were for using my own release. 
-2) Download MCPP from my github
+1) This is a Curseforge guide for now.
+2) Download MCPP from my github.
 3) Download the .zip from Curseforge or use your launcher's built in modpack browsing if it has that. 
-4) Install the modpack using the Import from .zip option
-5) Copy and paste the mods/resourcepacks into your other MC installations 
-6) Launch the game and profit
+4) Install the modpack using the Import from .zip option.
+5) Copy and paste the mods/resourcepacks into your other MC installations if you want.
+6) Launch the game and profit.
 7) This next bit is OPTIONAL. I highly recommend turning on Clear Skies and enabling block flickering if you want it to look better. 
 8) Hit ESC on your keyboard and go to Mods. Search for Colormatic. In the top right, there'll be a small icon that looks like this ![image](https://user-images.githubusercontent.com/82773235/115439311-70aa0600-a1dc-11eb-85ed-2a3a3e092cfc.png)
 9) Now click on it and go to the 'Fog & Sky' button.
 10) Click Clear Skies if you want to remove the horizontal banding at the sky's horizon. 
 11) If you don't want block flickering (light from torches/lanterns/etc. will flicker), go to 'Lighting' and disable it.
-12) You can experiment more, and once you're done changing it to your hearts' content, click Save & Quit and go back to the game
+12) You can experiment more, and once you're done changing it to your hearts' content, click Save & Quit and go back to the game.
 
 ---
 
 And you're done! Go get yourself a choccy milk and congratulate yourself. 
+
+---
+
+### Steps for Github Release
+Note: If you have no idea how to do this, follow the steps below. Or, just extract the release into your .minecraft folder, that should also work and skip to step 10.
+
+
+1) Download the latest release from the releases page.
+2) Extract the .zip into a separate folder. Do NOT extract the resourcepack after extracting the release, it is a .zip by default and will not work if you extract it.
+3) Go to your `minecraft/mods/` folder and paste the mods from the extracted .zip into that folder.
+4) Now is a good time to install [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) if you haven't already. You'll need it to configure one of the mods. 
+5) That's it! You're done with the hard part
+6) Launch the game and profit.
+7) This next bit is OPTIONAL. I highly recommend turning on Clear Skies and enabling block flickering if you want it to look better. 
+8) Hit ESC on your keyboard and go to Mods. Search for Colormatic. In the top right, there'll be a small icon that looks like this ![image](https://user-images.githubusercontent.com/82773235/115439311-70aa0600-a1dc-11eb-85ed-2a3a3e092cfc.png)
+9) Now click on it and go to the 'Fog & Sky' button.
+10) Click Clear Skies if you want to remove the horizontal banding at the sky's horizon. 
+11) If you don't want block flickering (light from torches/lanterns/etc. will flicker), go to 'Lighting' and disable it.
+12) You can experiment more, and once you're done changing it to your hearts' content, click Save & Quit and go back to the game.
+ 
+---
 
 Well...if you're reading this you want the technical version, right? To do this, you need to be reasonably tech savvy; but you need these skills: if you know how to find the path to a folder, and don't mind the lack of a graphical interface to use the program.
 1) Close your MC if it's running. You don't need to unload or reload the resourcepacks.
@@ -81,3 +102,4 @@ That's it! You're done!
 
 # Making Optifine resourcepacks that add custom entity models/custom item textures/varied mob textures
 this section is currently under construction
+however MCPPPP works with VMT for now. Unfortunately, the dev of VMT is taking a break, and hence MCPPPP cannot work on VMT conversion.
