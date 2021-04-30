@@ -46,7 +46,7 @@ Fun note: The mountains are *blue*, I have no clue why. If I had to guess, it's 
 
 BIG CHANGES ARE COMING: Soon, I will be removing my release from Github and I will refer you to Curseforge. This is because I feel it's unethical to provide direct .jars and I want to help boost the mod authors' downloads on CF. The steps will apply like normal, but you will download the .zip from CF, and import from .zip in GDL or MultiMC or whatever launcher you use. Then just copy and paste the mods into any of the installations of Minecraft that you have and do the same for the resourcepacks.
 
-## Do NOT go to the discord servers for MCPP, Colormatic, Sodium, or FabricSkyBoxes!! Make an issue report here first. If we can narrow it down to a specific mod, *I* will take care of reporting bugs. Don't ask for support in those servers. I will eventually make a discord server for this project, you can also talk to me there.
+## Do NOT go to the discord servers for MCPP, MCPPPP, Colormatic, Sodium, Canvas, or FabricSkyBoxes!! Make an issue report here first. If we can narrow it down to a specific mod, *I* will take care of reporting bugs. Don't ask for support in those servers. I will eventually make a discord server for this project, you can also talk to me there.
 
 ### Steps for Curseforge Release:
 Note: If you have no idea how to do this, follow the steps below. Or, just extract the release into your .minecraft folder, that should also work and skip to step 6.
@@ -59,7 +59,8 @@ Note: If you have no idea how to do this, follow the steps below. Or, just extra
 5) Copy and paste the mods/resourcepacks into your other MC installations if you want.
 6) Launch the game and profit.
 7) This next bit is OPTIONAL. I highly recommend turning on Clear Skies and enabling block flickering if you want it to look better. 
-8) Hit ESC on your keyboard and go to Mods. Search for Colormatic. In the top right, there'll be a small icon that looks like this ![image](https://user-images.githubusercontent.com/82773235/115439311-70aa0600-a1dc-11eb-85ed-2a3a3e092cfc.png)
+8) Hit ESC on your keyboard and go to Mods. Search for Colormatic. In the top right, there'll be a small icon that looks like this
+![image](https://user-images.githubusercontent.com/82773235/115439311-70aa0600-a1dc-11eb-85ed-2a3a3e092cfc.png)
 9) Now click on it and go to the 'Fog & Sky' button.
 10) Click Clear Skies if you want to remove the horizontal banding at the sky's horizon. 
 11) If you don't want block flickering (light from torches/lanterns/etc. will flicker), go to 'Lighting' and disable it.
@@ -82,7 +83,8 @@ Note: If you have no idea how to do this, follow the steps below. Or, just extra
 5) That's it! You're done with the hard part
 6) Launch the game and profit.
 7) This next bit is OPTIONAL. I highly recommend turning on Clear Skies and enabling block flickering if you want it to look better. 
-8) Hit ESC on your keyboard and go to Mods. Search for Colormatic. In the top right, there'll be a small icon that looks like this ![image](https://user-images.githubusercontent.com/82773235/115439311-70aa0600-a1dc-11eb-85ed-2a3a3e092cfc.png)
+8) Hit ESC on your keyboard and go to Mods. Search for Colormatic. In the top right, there'll be a small icon that looks like this
+![image](https://user-images.githubusercontent.com/82773235/115439311-70aa0600-a1dc-11eb-85ed-2a3a3e092cfc.png)
 9) Now click on it and go to the 'Fog & Sky' button.
 10) Click Clear Skies if you want to remove the horizontal banding at the sky's horizon. 
 11) If you don't want block flickering (light from torches/lanterns/etc. will flicker), go to 'Lighting' and disable it.
