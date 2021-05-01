@@ -48,6 +48,9 @@ BIG CHANGES ARE COMING: Soon, I will be removing my release from Github and I wi
 
 ## Do NOT go to the discord servers for MCPP, MCPPPP, Colormatic, Sodium, Canvas, or FabricSkyBoxes!! Make an issue report here first. If we can narrow it down to a specific mod, *I* will take care of reporting bugs. Don't ask for support in those servers. I will eventually make a discord server for this project, you can also talk to me there.
 
+Some gloabl info:
+Ignore any resourcepack messages saying it was made for an older version of Minecraft. The pack's version is 1.16.1, and I cannot do anything about it. If you use Dramatic Skys, put it as the top pack, then the one I bundled if you want it, then your other resourcepacks. Otherwise it will **not** work right.
+
 ### Steps for Curseforge Release:
 Note: If you have no idea how to do this, follow the steps below. Or, just extract the release into your .minecraft folder, that should also work and skip to step 6.
 
@@ -101,6 +104,8 @@ Well...if you're reading this you want the technical version, right? To do this,
 5) Now you can go to step 12 of the easy guide and do that to configure your game more
 
 That's it! You're done!
+
+Please let me know if there are *any* issues. I will try to get them fixed; and let me know of other resourcepacks that might work with this, or test them and report back to me with Github issues! I'd love to know that this works with more packs.
 
 # Making Optifine resourcepacks that add CET/CIT/CEM
 CET is Custom Entity Textures. CEM is Custom Entity Models. CIT is Custom Item Textures. 
