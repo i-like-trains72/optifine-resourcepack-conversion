@@ -59,7 +59,7 @@ Note: If you have no idea how to do this, follow the steps below. Or, just extra
 5) Copy and paste the mods/resourcepacks into your other MC installations if you want.
 6) Launch the game and profit.
 7) This next bit is OPTIONAL. I highly recommend turning on Clear Skies and enabling block flickering if you want it to look better. 
-8) Hit ESC on your keyboard and go to Mods. Search for Colormatic. In the top right, there'll be a small icon that looks like this
+ 8) Hit ESC on your keyboard and go to Mods. Search for Colormatic. In the top right, there'll be a small icon that looks like this
 ![image](https://user-images.githubusercontent.com/82773235/115439311-70aa0600-a1dc-11eb-85ed-2a3a3e092cfc.png)
 9) Now click on it and go to the 'Fog & Sky' button.
 10) Click Clear Skies if you want to remove the horizontal banding at the sky's horizon. 
@@ -102,5 +102,9 @@ Well...if you're reading this you want the technical version, right? To do this,
 
 That's it! You're done!
 
-# Making Optifine resourcepacks that add custom entity models/custom item textures/varied mob textures
-this section is currently under construction. however MCPPPP works with VMT for now. Unfortunately, the dev of VMT is taking a break, and hence MCPPPP cannot work on VMT conversion. gonna add VMT later.
+# Making Optifine resourcepacks that add CET/CIT/CEM
+CET is Custom Entity Textures. CEM is Custom Entity Models. CIT is Custom Item Textures. 
+An example of CET and CEM is the famous Better Dogs resourcepack. An example of CIT is a resourcepack that adds textures depending on the enchantments of a sword.
+
+This section is currently under construction. VMT is essentially CET. MCPPPP works with VMT for now (it can convert it). Unfortunately, the dev of VMT is taking a break, and hence MCPPPP cannot work on VMT conversion if it's not being updated.
+This section will be updated in the future.
