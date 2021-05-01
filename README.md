@@ -47,7 +47,7 @@ Fun note: The mountains are *blue*, I have no clue why. If I had to guess, it's 
 BIG CHANGES ARE COMING: Soon, I will be removing my release from Github and I will refer you to Curseforge. This is because I feel it's unethical to provide direct .jars and I want to help boost the mod authors' downloads on CF. The steps will apply like normal, but you will download the .zip from CF, and import from .zip in GDL or MultiMC or whatever launcher you use. Then just copy and paste the mods into any of the installations of Minecraft that you have and do the same for the resourcepacks.
 
 ## Do NOT go to the discord servers for MCPP, MCPPPP, Colormatic, Sodium, Canvas, or FabricSkyBoxes!! Make an issue report here first. If we can narrow it down to a specific mod, *I* will take care of reporting bugs. Don't ask for support in those servers. I will eventually make a discord server for this project, you can also talk to me there.
-
+ 
 Some gloabl info:
 Ignore any resourcepack messages saying it was made for an older version of Minecraft. The pack's version is 1.16.1, and I cannot do anything about it. If you use Dramatic Skys, put it as the top pack, then the one I bundled if you want it, then your other resourcepacks. Otherwise it will **not** work right.
 
