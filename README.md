@@ -4,7 +4,7 @@ This is a relatively simple guide designed to help users who want "shaders" with
 
 **NOTE: Both [MCPP](https://github.com/LambdAurora/MCPatcherPatcher) and [Colormatic](https://github.com/kvverti/colormatic) are under the [LGPL License](https://github.com/LambdAurora/MCPatcherPatcher/blob/main/LICENSE) and [FabricSkyBoxes](https://github.com/AMereBagatelle/fabricskyboxes) is under the [MIT License](https://github.com/AMereBagatelle/fabricskyboxes/blob/1.16.x-master/LICENSE). All three binaries which I have provided are unmodified from the original source code.**
 
-This repository is under the [LGPL license](LICENSE.txt). Before asking for support, please be aware of its terms.
+This repository is under the [LGPL license](https://github.com/i-like-trains72/optifine-resourcepack-conversion/blob/main/LICENSE). Before asking for support, please be aware of its terms.
 
 ![image](https://user-images.githubusercontent.com/82773235/115881185-80faf480-a419-11eb-9cd9-af5bd59f1082.png)
 
