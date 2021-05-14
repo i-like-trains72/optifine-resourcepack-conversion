@@ -107,6 +107,8 @@ That's it! You're done!
 
 Please let me know if there are *any* issues. I will try to get them fixed; and let me know of other resourcepacks that might work with this, or test them and report back to me with Github issues! I'd love to know that this works with more packs.
 
+**Make sure to add the proper labels to your issue, it makes it easier for me to distinguish things apart.**
+
 # Making Optifine resourcepacks that add CET/CIT/CEM
 CET is Custom Entity Textures. CEM is Custom Entity Models. CIT is Custom Item Textures. 
 An example of CET and CEM is the famous Better Dogs resourcepack. An example of CIT is a resourcepack that adds textures depending on the enchantments of a sword.
