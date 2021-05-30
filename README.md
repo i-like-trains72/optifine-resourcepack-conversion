@@ -1,4 +1,4 @@
-# Making Optifine resourcepacks that add lighting/water/custom skies work with Sodium
+# Making Optifine resourcepacks that add lighting/water/custom skies work without Optifine (*mainly focused on Sodium users*)
 This is a relatively simple guide designed to help users who want "shaders" with Sodium but don't want to use Iris or Fabulous (vanilla) shaders. If you didn't know already, Sodium does NOT work with Optifine shaders. This can be overcome using [Iris](https://github.com/IrisShaders/Iris) but it requires a decent amount of technical knowledge, and Fabulous (vanilla) shaders can be very heavy on system resources. Screenshots are further down.
 
 
