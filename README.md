@@ -114,5 +114,13 @@ CET is Custom Entity Textures. CEM is Custom Entity Models. CIT is Custom Item T
 An example of CET and CEM is the famous Better Dogs resourcepack. An example of CIT is a resourcepack that adds textures depending on the enchantments of a sword.
 
 This section is currently under construction. VMT is essentially CET. MCPPPP works with VMT for now (it can convert it). Unfortunately, the dev of VMT is taking a break, and hence MCPPPP cannot work on VMT conversion if it's not being updated. Remember that VMT is an alternative format to Optifine's CET, like how FSB is an alternative skybox format to Optifine's.
+
+NEW DEVELOPMENTS (as of 6/18/21)
+There are now TWO CEM mods. Both are WIP, once they get releases I'll talk about them.
+1) https://github.com/dorianpb/cem
+2) https://github.com/SekoiaTree/Centime
+
+There is also a converter for Chime which adds Custom Item Textures (CIT), made by the developer of Chime
+https://github.com/emilyalexandra/chime-converter
 This section will be updated in the future.
 
