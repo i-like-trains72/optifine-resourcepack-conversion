@@ -6,11 +6,13 @@ This is a relatively simple guide designed to help users who want "shaders" with
 
 This repository is under the [LGPL license](https://github.com/i-like-trains72/optifine-resourcepack-conversion/blob/main/LICENSE). Before asking for support, please be aware of its terms.
 
+**IF I HAVE INARDEVENTLY VIOLATED YOUR LICENSE TERMS, *PLEASE* LET ME KNOW BY MAKING AN ISSUE BEFORE TAKING IT TO THE NEXT LEVEL**
+
 ![image](https://user-images.githubusercontent.com/82773235/115881185-80faf480-a419-11eb-9cd9-af5bd59f1082.png)
 
 ---
 
-This guide assumes you know how to install mods on the **Fabric** modloader, how to install Curseforge modpacks, copy and paste mods/resourcepacks from instance to instance and how to load resourcepacks.
+This guide assumes you know how to install mods on the **Fabric** modloader, how to install mods from a .zip, use Curseforge modpacks, copy and paste mods/resourcepacks from instance to instance and how to load resourcepacks.
 
 If you would like me to change something or you find an error, just make an issue and if you want to do something *big*, make a pull request please.
 
@@ -46,7 +48,7 @@ Fun note: The mountains are *blue*, I have no clue why. If I had to guess, it's 
 
 BIG CHANGES ARE COMING: Soon, I will be removing my release from Github and I will refer you to Curseforge. This is because I feel it's unethical to provide direct .jars and I want to help boost the mod authors' downloads on CF. The steps will apply like normal, but you will download the .zip from CF, and import from .zip in GDL or MultiMC or whatever launcher you use. Then just copy and paste the mods into any of the installations of Minecraft that you have and do the same for the resourcepacks.
 
-## Do NOT go to the discord servers for MCPP, MCPPPP, Colormatic, Sodium, Canvas, or FabricSkyBoxes!! Make an issue report here first. If we can narrow it down to a specific mod, *I* will take care of reporting bugs. Don't ask for support in those servers. I will eventually make a discord server for this project, you can also talk to me there.
+## Do NOT go to the discord servers for MCPP, MCPPPP, Colormatic, Sodium, Canvas, or FabricSkyBoxes!! Make an issue report here first. If we can narrow it down to a specific mod, *I* will take care of reporting bugs. Don't ask for support in those servers. I will eventually make a discord server for this project and probably other mods if I ever do that, you can also talk to me there.
  
 Some gloabl info:
 Ignore any resourcepack messages saying it was made for an older version of Minecraft. The pack's version is 1.16.1, and I cannot do anything about it. If you use Dramatic Skys, put it as the top pack, then the one I bundled if you want it, then your other resourcepacks. Otherwise it will **not** work right.
